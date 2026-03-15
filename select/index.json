@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Counter Strike",
+  "base_artist": "Lyn",
+  "createdAt": "2026-03-15T14:33:23.223707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Counter Strike",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/01_Counter_Strike_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Counter Strike",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/02_Counter_Strike_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Counter Strike",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/03_Counter_Strike_Lyn.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Counter Strike",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/04_Counter_Strike_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jag är en tönt som spelar Counter-Strike",
+      "artist": "T-Röd",
+      "has_synced": true,
+      "path": "select/05_Jag_är_en_tönt_som_spelar_Counter-Strike_T-Röd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Counter Strike (2022.10.9 MAKUHARI MESSE LIVE)",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/06_Counter_Strike_(2022.10.9_MAKUHARI_MESSE_LIVE)_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Counter Strike Porch",
+      "artist": "Dan Bull feat. Boyinaband",
+      "has_synced": true,
+      "path": "select/07_Counter_Strike_Porch_Dan_Bull_feat._Boyinaband.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Counter Strike Porch",
+      "artist": "Dan Bull, Boyinaband",
+      "has_synced": true,
+      "path": "select/08_Counter_Strike_Porch_Dan_Bull,_Boyinaband.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Counter Strike",
+      "artist": "Lyn Inaizumi",
+      "has_synced": true,
+      "path": "select/09_Counter_Strike_Lyn_Inaizumi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Counter Strike (feat. Gabriel Sabino) [Persona 5 Scramble]",
+      "artist": "Nordex",
+      "has_synced": true,
+      "path": "select/10_Counter_Strike_(feat._Gabriel_Sabino)_[Persona_5_Scramble]_Nordex.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Counter-Strike",
+      "artist": "Antrax",
+      "has_synced": false,
+      "path": "select/11_Counter-Strike_Antrax.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Counter Strike",
+      "artist": "XS Project",
+      "has_synced": true,
+      "path": "select/12_Counter_Strike_XS_Project.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Counter Strike",
+      "artist": "Lyn Inaizumi",
+      "has_synced": false,
+      "path": "select/13_Counter_Strike_Lyn_Inaizumi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Counter Strike Porch",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/14_Counter_Strike_Porch_Dan_Bull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Counter Strike",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Counter_Strike_Lyn.txt"
+    }
+  ]
+}
